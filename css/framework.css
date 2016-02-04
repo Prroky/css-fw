@@ -66,7 +66,6 @@ textarea {
     margin-bottom: 0;
     vertical-align: middle;
   }
-<<<<<<< HEAD
   .form-inline .form-control {
     display: inline-block;
     width: auto;
@@ -110,29 +109,18 @@ textarea {
   .form-inline .has-feedback .form-control-feedback {
     top: 0;
   }
-=======
->>>>>>> origin/master
   
   
 .radio,
 .checkbox {
   position: relative;
   display: block;
-<<<<<<< HEAD
   margin-top: 10px;
   margin-bottom: 10px;
 }
 .radio label,
 .checkbox label {
   min-height: 20px;
-=======
-  margin-top: 25px;
-  margin-bottom: 25px;
-}
-.radio label,
-.checkbox label {
-  min-height: 15px;
->>>>>>> origin/master
   padding-left: 20px;
   margin-bottom: 0;
   font-weight: normal;
