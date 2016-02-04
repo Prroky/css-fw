@@ -6,6 +6,30 @@
   padding: 16px;
 }
 
+.container-example {
+  padding-right: 25px;
+  padding-left: 25px;
+  margin-right: auto;
+  margin-left: auto;
+  float:none;
+  overflow: hidden;
+  width: 1150px;   
+  max-width: 100%;
+  box-sizing: border-box;  
+  -moz-box-sizing: border-box;  
+  } 
+  
+.container-fluid-example {
+  padding-right: 10px;
+  padding-left: 10px;
+  margin-right: auto;
+  margin-left: auto;
+  overflow: hidden;
+  float:none;
+  width: 100%;
+  box-sizing: border-box;  
+  -moz-box-sizing: border-box;}
+
 h1 {
   font-weight: 300;
 }
